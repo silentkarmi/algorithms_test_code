@@ -1,8 +1,7 @@
-#include <iostream.h>
-#include <conio.h>
+#include <iostream>
 
-void main()
+int main()
 {
-	cout<<"Hello Git";
-	getch();
+	std::cout<<"Hello Git\n";
+	return 0;
 }
