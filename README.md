@@ -1,4 +1,4 @@
-# algorithms_test_code
+<pre>
 
 All programs compilable on gcc ubuntu.
 
@@ -13,3 +13,4 @@ Coin Toss 1 Crore times, 	= 49.979 / 50.021,
 Coin Toss 10 Crore times, 	= 49.9946 / 50.0054
 
 if, a probability shows that it has a 50-50 percent chance of occuring and it doesn't occur then, the game is probably rigged.
+</pre>
